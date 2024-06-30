@@ -18,5 +18,10 @@ def test_M4():
     assert "TT" == "TT"
 
 def test_MGit_Test():
+
     print("test_MGit_Test")
     assert "TestTT" == "TT"
+
+    print("Method test_MGit_Test")
+    assert "TT" == "TT"
+
